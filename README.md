@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+[youtube]: https://www.youtube.com/user/iamsanketray1
 [twitter]: https://twitter.com/iamsanketray
 [instagram]: https://www.instagram.com/iamchingel
 [linkedin]:https://www.linkedin.com/in/iamsanketray
