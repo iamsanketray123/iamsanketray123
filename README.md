@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with: Data Structures and Algorithms
 - 💬 Ask me about: Anything
 - 📫 How to reach me: iamsanketray123@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Dota2!
 
 ### Connect with me:
